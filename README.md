@@ -4,7 +4,6 @@
 🔭 I’m currently studying at a vocational high school. <br> 🕮 I’m currently learning Linux, full-stack development, and AI/ML. <br> 🎌 My dream is to study in Japan
 
 ## 🌐 Connect with me
-<p align="center">
 <a href="https://github.com/synzx97" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" />
 </a>
@@ -22,6 +21,7 @@
 </a>
 
 ## 💻 Tech Stack
+<p align="center">
 <!-- Language -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
