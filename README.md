@@ -1,7 +1,14 @@
 ![Header](github-banner.png)
 
+Hi, I'm Synzx (Bayu Saputra)
+
+I’m a passionate **Full Stack Developer** and **Cybersecurity Enthusiast** from Indonesia.  
+Currently studying at **SMK majoring in Computer and Network Engineering**, and building my skills toward **Full Stack Development**, **Cybersecurity**, and **Japanese language learning**.  
+
+---
+
 # About Me:
-🔭 I’m currently studying at a vocational high school. <br> 🕮 I’m currently learning Linux, full-stack development, and AI/ML. <br> 🎌 My dream is to study in Japan
+🔭 I’m currently studying at a vocational high school. <br> 🕮 I’m currently learning Linux, full-stack development, and AI/ML. <br> 🎌 My dream is to study in Japan<br> 🧠 I enjoy learning through self-designed study systems combining logic, metacognition, <br>🌏 My long-term goal is to **study in Japan through MEXT scholarship**.<br>
 
 ## 🌐 Connect with me
 <a href="https://github.com/synzx97" target="_blank">
@@ -54,4 +61,11 @@
 ## Contribution
 <img src="https://raw.githubusercontent.com/synzx97/synzx97/output/snake.svg" alt="Snake animation" />
 
-###
+## 🧩 SEO Information (for Search Engines)
+
+> **Keywords:** Synzx, synzx97, Full Stack Developer, Cybersecurity Enthusiast, Indonesian Developer, Docker, Nginx, Proxmox, Portfolio, MEXT Scholarship.  
+> **Description:** Synzx is a Full Stack Developer and Cybersecurity Enthusiast from Indonesia, passionate about technology, Japanese culture, and building innovative projects.
+
+---
+
+⭐ **Feel free to explore my repositories and projects!**
