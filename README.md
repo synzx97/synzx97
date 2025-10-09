@@ -4,7 +4,7 @@
 🔭 I’m currently studying at a vocational high school. <br> 🕮 I’m currently learning Linux, full-stack development, and AI/ML. <br> 🎌 My dream is to study in Japan
 
 ## 🌐 Connect with me
-
+<p align="center">
 <a href="https://github.com/synzx97" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" />
 </a>
@@ -45,6 +45,7 @@
 <!-- Terminal -->
 <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white" alt="Zsh">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash">
+</p>
 
 ## 📊 My Github Stats:
 ![Synzx97's GitHub stats](https://github-readme-stats.vercel.app/api?username=synzx97&show_icons=true&commits_year=YYYY&theme=vision-friendly-dark)<br>
